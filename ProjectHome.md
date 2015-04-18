@@ -1,0 +1,1 @@
+Scrips traducidos y modificados para mejorar usabilidad y entendimiento por parte del usuario.
